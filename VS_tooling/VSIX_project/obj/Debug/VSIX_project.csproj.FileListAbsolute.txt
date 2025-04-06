@@ -1,0 +1,15 @@
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\bin\Debug\VSIX_project.dll
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\bin\Debug\VSIX_project.pdb
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\bin\Debug\VSIX_project.pkgdef
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\bin\Debug\VSIX_project.vsix
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\obj\Debug\VSIX_project.csproj.AssemblyReference.cache
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\obj\Debug\_EmptyResource.resources
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\obj\Debug\VSIX_project.csproj.GenerateResource.cache
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\obj\Debug\VSIX_project.csproj.CoreCompileInputs.cache
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\obj\Debug\VSIX_project.dll
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\obj\Debug\VSIX_project.pdb
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\obj\Debug\VSIX_project.pkgdef
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\obj\Debug\VSIX_project.latest.pkgdef
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\obj\Debug\extension.vsixmanifest
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\obj\Debug\files.json
+I:\Projects\Instrux_master\Instrux_Master\VS_tooling\VSIX_project\obj\Debug\createTemplateManifests.cache

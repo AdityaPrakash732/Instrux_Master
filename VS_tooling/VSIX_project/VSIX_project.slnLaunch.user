@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "VSIX_project.csproj",
+        "Action": "Start",
+        "DebugTarget": "Current Instance [Visual Studio Community 2022]"
+      }
+    ]
+  }
+]
