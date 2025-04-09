@@ -4,9 +4,10 @@
 #include "instrux_console.h"
 
 using namespace std;
+using namespace Instrux;
 
 int main(int argc, char* argv[])
 {
-	
+	Console c;
 	return 0;
 }

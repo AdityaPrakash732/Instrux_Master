@@ -1,2 +1,7 @@
 .vs/
+
+# console
+CMakeFiles/
+.cmake/
 /VS_interperter/instrux_console/.vs
+/VS_interperter/instrux_console/out
