@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_console_app: phony || .
 
 build CMakeFiles\console_app.dir\instrux_console.cpp.obj: CXX_COMPILER__console_app_unscanned_Debug I$:\Projects\Instrux_master\Instrux_Master\VS_interperter\instrux_console\instrux_console.cpp || cmake_object_order_depends_target_console_app
   CONFIG = Debug
-  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 -Wall -Wextra -Werror
   INCLUDES = -II:\Projects\Instrux_master\Instrux_Master\VS_interperter\instrux_console\Console\Headers
   OBJECT_DIR = CMakeFiles\console_app.dir
   OBJECT_FILE_DIR = CMakeFiles\console_app.dir
